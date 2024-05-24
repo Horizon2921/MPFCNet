@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2cae3a5-c1da-4bb4-b2fd-7aa4e8c047ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dataset_Info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/1030-swin-hr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/FFN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/GAU.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/HR-Ham.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/HRNet-Transformer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/HRNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/HRNet_LKA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/HRNet_att.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/HRNet_msca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/HamNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/HorNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/MAXIM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/Norm_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/RepMlpNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/SA_HRNET.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/Spade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/Swin_UNeTR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/UNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/UNet_plus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/ZDY-eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/dsbn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/flash_pytorch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/hr_lka_hor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/hrnet_lka_encoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/hrunet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/learn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/myUNet3D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/networks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/test_mini_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Network/tinyHRNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Train_2023/test_nnunet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Train_2023/test_swinunetr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Train_2023/train_hrnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Train_2023/train_nnunet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Train_2023/train_swinunetr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Train_2023/train_unet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Train_2023/train_unetr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init1011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SALMON.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/check_loader_patches.py" beforeDir="false" afterPath="$PROJECT_DIR$/check_loader_patches.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/label.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prostate.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prostate_inf.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/prostate_label.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/result.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/salmon.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/salmon2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/salmon3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/salmon4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/salmon5.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/salmon6.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/init.py" beforeDir="false" afterPath="$PROJECT_DIR$/init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/installation_commands_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/installation_commands_.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/check_loader_patches.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/check_loader_patches.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/check_resolution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/docker commands_.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/images/image.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/images/label.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/images/prostate.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/images/prostate_inf.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/images/prostate_label.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/images/result.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/images/salmon.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/images/salmon2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/images/salmon3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/images/salmon4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/images/salmon5.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/images/salmon6.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/multi_label_segmentation_example/check_loader_patches.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/multi_label_segmentation_example/check_resolution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/multi_label_segmentation_example/init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/multi_label_segmentation_example/networks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/multi_label_segmentation_example/organize_folder_structure.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/multi_label_segmentation_example/predict_single_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/multi_label_segmentation_example/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/networks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/organize_folder_structure.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/predict_single_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/deprecated/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/installation_commands_.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/multi_label_segmentation_example/init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/multi_label_segmentation_example/predict_single_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/multi_label_segmentation_example/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/networks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/organize_folder_structure.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/predict_single_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monai 0.5.0/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/networks.py" beforeDir="false" afterPath="$PROJECT_DIR$/networks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/organize_folder_structure.py" beforeDir="false" afterPath="$PROJECT_DIR$/organize_folder_structure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict_single_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/predict_single_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2gtQqj9C4lHR3XiNSbFynz9c6MC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Volumes/Data/代码/Pytorch--3D-Medical-Images-Segmentation&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7a29c1521ef0-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.298" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2cae3a5-c1da-4bb4-b2fd-7aa4e8c047ba" name="Changes" comment="" />
+      <created>1716514586626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716514586626</updated>
+      <workItem from="1716514587751" duration="1784000" />
+      <workItem from="1716517141259" duration="35000" />
+      <workItem from="1716517225224" duration="155000" />
+      <workItem from="1716517391281" duration="11000" />
+      <workItem from="1716517417834" duration="13000" />
+      <workItem from="1716517469436" duration="68000" />
+      <workItem from="1716517771736" duration="189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
